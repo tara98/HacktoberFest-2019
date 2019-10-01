@@ -3,19 +3,22 @@ A repository for beginners for making their first pull request.
 
 # Digital Ocean is giving away free Merchandise
 
-# Step 1: First you need a [github](www.github.com) account,
-create your account for free [here](https://github.com/join?source=header-home)
+## Step 1: First you need a [github](www.github.com) account,
 
-# Step 2: Register at [HacktoberFest-2019](https://hacktoberfest.digitalocean.com/start) with your github account
+###create your account for free [here](https://github.com/join?source=header-home)
 
-# Step 3: :star2: this repository
+## Step 2: Register at [HacktoberFest-2019](https://hacktoberfest.digitalocean.com/start) with your github account
 
-# Step 4: just open Index.md and write a line to introduce yourself.
-syntax: XXXXXXXXX[your name](your github profile link)
+#3 Step 3: :star2: this repository
+# Step 4: just open [Index.md](https://github.com/taran9873/HacktoberFest-2019/blob/master/Index.md) and write a line to introduce yourself.
+syntax: (introduce yourself)[your name](your github profile link)
+
+ignore initial curly brackets
+**square and curly bracket for name and github link are necessary**
 
 for eg : Hi,I am [Tarandeep singh](https://github.com/taran9873)
 
-# Step 4: make a PR(pull request) , i will merge everyone's PR
+# Step 4: make a PR(pull request), everyone's PR will be merged.
 
 # HacktoberFest have limited number of Merchandise so...do fast
 
