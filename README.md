@@ -9,7 +9,7 @@ A repository for beginners for making their first pull request.
 
 ## Step 2: Register at [HacktoberFest-2019](https://hacktoberfest.digitalocean.com/start) with your github account
 
-## Step 3: :star2: this repository
+## Step 3: :star2: and fork this repository
 
 ## Step 4: just open [Index.md](https://github.com/taran9873/HacktoberFest-2019/blob/master/Index.md) and write a line to introduce yourself.
 
