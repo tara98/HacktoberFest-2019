@@ -4,7 +4,7 @@ A repository for beginners for making their first pull request.
 # Digital Ocean is giving away free Merchandise
 
 # Step 1: First you need a [github](www.github.com) account,
-	  create your account for free [here](https://github.com/join?source=header-home)
+create your account for free [here](https://github.com/join?source=header-home)
 
 # Step 2: Register at [HacktoberFest-2019](https://hacktoberfest.digitalocean.com/start) with your github account
 
